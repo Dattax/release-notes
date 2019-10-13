@@ -35,7 +35,11 @@ In this release, GoCenter has:
 In this release, module metadata will be displayed as part of search results.
 
 ## 2019 June 6: Improved search functionality
-In this release, GoCenter has enriched the search functionality which includes most relevant Go modules in search results.
+In this release, GoCenter has enriched the search functionality which includes most relevant Go modules in search results. Other updates include:
+*	Ignore build constraint validation failure
+*	Fixed elastic json escape bug
+*	Added support to Artifactory 6.10.x
+*	Added support to modules with .go in their names
 
 ## 2019 March 27: Enhanced automatic inclusion of Go modules 
 In this release, GoCenter has enhanced the automatic inclusion of Go modules
@@ -54,4 +58,9 @@ In this release, GoCenter has changed the logic of mod files generation.
 * Basic ability to search for modules
 * Basic ability to request new modules be added to GoCenter
 * Basic ability to determine the status of a module/version
+*	New CLI version
+*	Updated the UI
+*	Created helper to fix Artifactory mod files
+*	Updated main view mobile layout
+
 
