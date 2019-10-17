@@ -12,7 +12,7 @@
 - [2019 June 6: Improved search functionality](#2019-june-6-improved-search-functionality)
 - [2019 March 27: Enhanced automatic inclusion of Go modules](#2019-march-27-enhanced-automatic-inclusion-of-go-modules)
 - [2019 March 14: Updated logic for generating mod files](#2019-march-14-updated-logic-for-generating-mod-files)
-- [2019 January 28: GA](#2019-January-28-ga-gocenter.io-goes-live!)
+- [2019 January 28: GA](#2019-January-28-ga---gocenter.io-goes-live!)
 
 <!-- /MarkdownTOC -->
 
