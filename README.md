@@ -10,7 +10,7 @@
 - [2019 July 23: Released GoCenter module page](#2019-july-23-released-gocenter-module-page)
 - [2019 June 12: Display module information in search results](#2019-june-12-module-information-in-search-results)
 - [2019 June 6: Improved search functionality](#2019-june-6-improved-search-functionality)
-- [2019 May 24: Updates this month for Go version 1.12](#2019-may-24-updates-this-month-for-go-versin-1.12)
+- [2019 May 24: Updates all this month for Go version 1.12](#2019-may-24-updates-all-this-month-for-go-versin-1.12)
 - [2019 March 27: Enhanced automatic inclusion of Go modules](#2019-march-27-enhanced-automatic-inclusion-of-go-modules)
 - [2019 March 14: Updated logic for generating mod files](#2019-march-14-updated-logic-for-generating-mod-files)
 - [2019 January 28: GA](#2019-January-28-ga)
