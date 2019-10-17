@@ -91,7 +91,6 @@ This month we’re continuing to make updates to Go Center that incorporate chan
 *	gomodinittidy flow	store/fetch go.mod-public/suggested in bucket and server via rest when invoked
 *	gomodinittidy flow
 *	Fixed module indexing issues		
-*	Updated Go version to 1.12. 
 *	Init cache provider for metadata service
 *	module metrics in module status, readme from art
 
