@@ -75,5 +75,3 @@ In this release, GoCenter has changed the logic of mod files generation.
 *	Updated the UI
 *	Created helper to fix Artifactory mod files
 *	Updated main view mobile layout
-
-
