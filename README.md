@@ -12,7 +12,7 @@
 - [2019 July 23: Released GoCenter module page](#2019-july-23-released-gocenter-module-page)
 - [2019 June 12: Display module information in search results](#2019-june-12-display-module-information-in-search-results)
 - [2019 June 6: Improved search functionality](#2019-june-6-improved-search-functionality)
-- [2019 May 24: Go version 1.12 updates](#2019-may-24-go-version-1.12-updates)
+- [2019 May 24: Go version updates](#2019-may-24-go-version-updates)
 - [2019 April 26: Improve module metadata and search](#2019-april-26-improve-module-metadata-and-search)
 - [2019 March 27: Enhanced automatic inclusion of Go modules](#2019-march-27-enhanced-automatic-inclusion-of-go-modules)
 - [2019 March 20: Inclusion, discovery, validation](#2019-march-20-inclusion-discovery-validation)
@@ -98,7 +98,7 @@ In this release, GoCenter has enriched the search functionality which includes m
 *	Added support to Artifactory 6.10.x
 *	Added support to modules with .go in their names
  
-## 2019 May 24: Go version 1.12 updates
+## 2019 May 24: Go version updates
 This month we’re continuing to make updates to Go Center that incorporate changes from Go 1.12. These include:
 *	store/fetch go.mod-public/suggested in bucket and server via rest when invoked
 *	gomodinittidy flow	store/fetch go.mod-public/suggested in bucket and server via rest when invoked
