@@ -10,7 +10,7 @@
 - [2019 September 3: Beginning to build a Go Modules Score](#2019-september-3-beginning-to-build-a-go-modules-score)
 - [2019 August 27: Discovery process updates](#2019-august-27-discovery-process-updates)
 - [2019 July 23: Released GoCenter module page](#2019-july-23-released-gocenter-module-page)
-- [2019 June 12: Display module information in search results](#2019-june-12-module-information-in-search-results)
+- [2019 June 12: Display module information in search results](#2019-june-12-display-module-information-in-search-results)
 - [2019 June 6: Improved search functionality](#2019-june-6-improved-search-functionality)
 - [2019 May 24: Updates all this month for Go version 1.12](#2019-may-24-updates-all-this-month-for-go-versin-1.12)
 - [2019 April 26: Improve module metadata and search](#2019-april-26-improve-module-metadata-and-search)
