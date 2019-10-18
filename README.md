@@ -99,7 +99,7 @@ In this release, GoCenter has enriched the search functionality which includes m
 *	Added support to modules with .go in their names
  
 ## 2019 May 24: Go version 1.12 updates
-This month we’re continuing to make updates to Go Center that incorporate changes from Go version 1.12. These include:
+This month we’re continuing to make updates to Go Center that incorporate changes from Go 1.12. These include:
 *	store/fetch go.mod-public/suggested in bucket and server via rest when invoked
 *	gomodinittidy flow	store/fetch go.mod-public/suggested in bucket and server via rest when invoked
 *	gomodinittidy flow
