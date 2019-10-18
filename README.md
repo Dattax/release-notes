@@ -84,7 +84,7 @@ In this release, GoCenter has:
 * Changed the way Go modules are resolved. If the module isn’t in GoCenter, it will get the module from the source for you. This feature limits the number of HTTP/404 responses and means developers no longer need any additional tools to get all their public modules from GoCenter.
 * Updated the `Set Me Up` page to include instructions for Windows PowerShell and the traditional Windows terminal.
 
-## 2019 June 12: Module information in search results
+## 2019 June 12: Display module information in search results
 In this release, module metadata will be displayed as part of search results. Other fixes that came out today include:
 *	Deep processing when shallow processing times out.	
 *	Added module update retries		
