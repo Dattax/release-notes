@@ -36,7 +36,7 @@ Other updates included a new improved homepage image and:
 * White information bar includes new metrics data including license information
 * A blog link has been added to the top bar.
 
-## September 19, 2019: SEO improvements
+## 2019 September 19: SEO improvements
 We've been improving the SEO experience with changes to the content and UI
  *	Added a new CLI version
  *	GoCenter search description update for SEO
@@ -93,6 +93,16 @@ This month we’re continuing to make updates to Go Center that incorporate chan
 *	Fixed module indexing issues		
 *	Init cache provider for metadata service
 *	module metrics in module status, readme from art
+
+## 2019 April 26: Improve module metadata and search
+The focus here was on adding module metadata services and improving the search experience. Updates include:
+*	Initial version source location metadata job			
+*	Changed elastic client and added new source location metadata		
+*	Added metrics daos				
+*	Created metadata microservice		
+*	Elastic added to devenv		
+*	Removed plus suffixed tags from missing		
+*	Changed elastic client and added new source location metadata
 
 ## 2019 March 27: Enhanced automatic inclusion of Go modules 
 In this release, GoCenter has enhanced the automatic inclusion of Go modules
