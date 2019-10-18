@@ -133,19 +133,16 @@ This release focused on bug fixes and included fixing scenario incompatibility i
 * Event validation rules		
 * Added module list query
 
-## 2019 February 7: Optimized discovery and support for jenkins
+## 2019 February 7: Optimized discovery and support for Jenkins
 We updated and fixed some core features. We focused on optimized discovery. More Updates include:
 * Converted production cluster from zonal to regional
 * Added retry mechanisms during processing
 * Check for max number of tags before getting another page of tags
-* Add regional stage and prod clusters support for jenkins deploy		
+* Add regional stage and prod clusters support for Jenkins deploy		
 * Fixed feature pipeline 
 * Introduced retries and checks for CLI timeouts
-* Updated caddy_helm_pkg_feat.sh and add debug for other jenkins files
-* Fixed feature pipeline
-* Introduced retries and checks for CLI timeouts
-* Updated caddy_helm_pkg_feat.sh and add debug for other jenkins files
-* Sdd regional stage and prod clusters support for jenkins deploy		
+* Updated caddy_helm_pkg_feat.sh and add debug for other Jenkins files
+* Sdd regional stage and prod clusters support for Jenkins deploy		
 * Trigger CI pipeline
 
 ## 2019 January 28: GA
