@@ -2,17 +2,23 @@
 
 <!-- MarkdownTOC autolink="true" bracket="round" -->
 
+- [2019 October 17: Bug fixes and regular maintenance for Go](#///////////////////////////////////////)
 - [2019 October 9: More UI improvements](#2019-october-9-more-ui-improvements)
 - [2019 October 7: New Metrics Panel and New Go Center Look](#2019-october-7-new-metrics-panel-and-new-Go-Center-look)
 - [2019 September 19: SEO improvements](#2019-september-19-seo-improvements)
 - [2019 September 10: Checksum database support in GoCenter](#2019-september-10-checksum-database-support-in-gocenter)
+- [2019 September 3: Beginning to build a Go Modules Score](#///////////////////////////////////////)
 - [2019 August 27: Discovery process updates](#2019-august-27-discovery-process-updates)
 - [2019 July 23: Released GoCenter module page](#2019-july-23-released-gocenter-module-page)
 - [2019 June 12: Display module information in search results](#2019-june-12-module-information-in-search-results)
 - [2019 June 6: Improved search functionality](#2019-june-6-improved-search-functionality)
 - [2019 May 24: Updates all this month for Go version 1.12](#2019-may-24-updates-all-this-month-for-go-versin-1.12)
+- [2019 April 26: Improve module metadata and search](#///////////////////////////////////////)
 - [2019 March 27: Enhanced automatic inclusion of Go modules](#2019-march-27-enhanced-automatic-inclusion-of-go-modules)
+- [2019 March 20: Inclusion, discovery, validation](#///////////////////////////////////////)
 - [2019 March 14: Updated logic for generating mod files](#2019-march-14-updated-logic-for-generating-mod-files)
+- [2019 March 9: Fixed incompatibility](#///////////////////////////////////////)
+- [2019 February 7: Optimized discovery and support for Jenkins](#///////////////////////////////////////)
 - [2019 January 28: GA](#2019-January-28-ga)
 
 <!-- /MarkdownTOC -->
