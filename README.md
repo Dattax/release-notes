@@ -2,7 +2,7 @@
 
 <!-- MarkdownTOC autolink="true" bracket="round" -->
 
-- [2019 October 17: Bug fixes and regular maintenance for Go](#///////////////////////////////////////)
+- [2019 October 17: Bug fixes and regular maintenance for Go](#2019-october-17-bug-fixes-and-regular-maintenance-for-go)
 - [2019 October 9: More UI improvements](#2019-october-9-more-ui-improvements)
 - [2019 October 7: New Metrics Panel and New Go Center Look](#2019-october-7-new-metrics-panel-and-new-Go-Center-look)
 - [2019 September 19: SEO improvements](#2019-september-19-seo-improvements)
